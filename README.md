@@ -1,4 +1,4 @@
-# react-desktop-notify
+# react-scroll-observer
 
 It is a tool used to fire callback whenever an element comes in a specific part of the viewPort.
 
